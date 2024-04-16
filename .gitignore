@@ -1,0 +1,9 @@
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.*
+.terraform
+creds.json
+build-image.sh
+env/
+.env
+__pycache__
